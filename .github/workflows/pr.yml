@@ -17,6 +17,7 @@ jobs:
           # Change reporter level if you need.
           level: error
           filter_mode: nofilter
+          disabled_categories: 'A_INFINITIVE'
       - uses: actions/setup-node@v2-beta
         with:
           node-version: 16
