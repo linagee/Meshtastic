@@ -42,7 +42,7 @@ Various data-rates are selectable when configuring a channel and are inversely p
 Considerations:
 
 - Spreading Factor - How much we "spread" our data over time.
-  - Each step up in Spreading Factor doubles the airtime to transmit.
+  - Each step up in Spreading Factor dobules the airtime to transmit.
   - Each step up in Spreading Factor adds about 2.5db extra link budget.
 - Bandwidth - How big of a slice of the spectrum we use.
   - Each doubling of the bandwidth is almost 3db less link budget.
